@@ -15,16 +15,16 @@ a CNN neural networks is trained based on data to adjust the steering angle.
 ## Preparing the tools <br>
 the required libraries need to be imported.
 <br>
-socketio
-eventlet
-numpy
-flask
-tensorflow
-keras
-base64
-Pillow 
-opencv
-matplotlib
+socketio <br>
+eventlet <br>
+numpy <br>
+flask <br>
+tensorflow <br>
+keras <br>
+base64 <br>
+Pillow <br>
+opencv <br>
+matplotlib <br>
 
 
 ## Result

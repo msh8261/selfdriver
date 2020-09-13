@@ -10,10 +10,10 @@ the Udacity simulator "https://github.com/udacity/self-driving-car-sim" is used 
 We trained a CNN neural networks based on data to adjust the steering angle.
 
 ## Result
-[<div align="middle">
+<div align="middle">
 <video width="80%" controls>
-      <source src="result/sim_result.mp4" type="video/mp4">
-</video></div>]
+      <source src="result/sim-result.mp4" type="video/mp4">
+</video></div>
 
 
 

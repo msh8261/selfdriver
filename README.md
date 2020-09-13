@@ -8,7 +8,7 @@ the Udacity simulator "https://github.com/udacity/self-driving-car-sim" is used 
 
 <img
 src="https://github.com/msh8261/selfdriver/dataset/IMG/right_2020_08_28_14_37_32_868.jpg"
-style="margin-right: 10px;"
+style="margin-right: 50px;"
 />
 
 ## Deep learning Model 

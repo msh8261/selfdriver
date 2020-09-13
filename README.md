@@ -13,7 +13,7 @@ the Udacity simulator "https://github.com/udacity/self-driving-car-sim" is used 
 a CNN neural networks is trained based on data to adjust the steering angle.
 
 ## Preparing the tools <br>
-the required libraries need to be imported.
+libraries need to be imported.
 <br>
 socketio <br>
 eventlet <br>

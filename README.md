@@ -1,4 +1,4 @@
-# selfdriver
+# selfdrive car
 ## Project Description <br>
 by applying lane line detection (Use Computer Vision techniques via OpenCV to identify lane lines) and PID controller to control the steering_angle to drive smoother. 
 <br>

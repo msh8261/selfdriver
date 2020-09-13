@@ -1,8 +1,5 @@
 import os
-import gym
-import gym_donkeycar
 import eventlet.wsgi
-
 import socketio
 import eventlet
 import numpy as np
